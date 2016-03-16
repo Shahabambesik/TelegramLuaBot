@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '204669943:AAFaXSvZtL_tUfBX-gX3-dhA995o4BpzqNI', --token
+	bot_api_key = '179995476:AAFEFuf8_0OPd5BZnBVYvL5g09Px60lreEk', --token
 	bot_api_key = '',
 	google_api_key = '',
 	google_cse_key = '',
@@ -57,7 +57,7 @@ return {
 	},
 	moderation = {
 		admins = {
-			['102490691'] = 'Arman'
+			['119989724'] = 'Shahab'
 		},
 		errors = {
 			antisquig = 'This group is English-only.',
@@ -65,7 +65,7 @@ return {
 			not_mod = 'This command must be run by a moderator.',
 			not_admin = 'This command must be run by an administrator.',
 		},
-		admin_group = -00000000,
+		admin_group = -137461183,
 		realm_name = 'My Realm',
 		antisquig = false
 	},
