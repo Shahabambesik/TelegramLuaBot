@@ -72,6 +72,7 @@ return {
 	plugins = {
 		'Block.lua',
 		'Help.lua',
-		'PV.lua'
+		'PV.lua',
+                'Calc.lua'
 	}
 }
